@@ -1,5 +1,14 @@
 # test
 
+## 1.0.4
+
+### Patch Changes
+
+- f5b133e: 1
+- d6bfb65: 1
+- d757310: 1
+- ff1ed66: 1
+
 ## 1.0.3
 
 ### Patch Changes
