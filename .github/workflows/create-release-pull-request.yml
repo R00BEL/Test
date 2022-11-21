@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: qwe
       - uses: actions/checkout@v3
 
       - name: Install modules
