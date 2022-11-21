@@ -1,5 +1,11 @@
 # test
 
+## 1.0.3
+
+### Patch Changes
+
+- bb597af: new change
+
 ## 1.0.2
 
 ### Patch Changes
