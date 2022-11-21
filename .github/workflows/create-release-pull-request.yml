@@ -1,0 +1,24 @@
+name: Create release pull request
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install modules
+      - run: npm ci
+
+      - name: Create release pull request / publish
+        uses: changesets/action@v1
+        with:
+          version: npm run version
+          publish: npm run publish
+          title: "chore: update versions"
+          commit: "chore: update versions"
