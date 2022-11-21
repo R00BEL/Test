@@ -1,5 +1,12 @@
 # test
 
+## 1.0.2
+
+### Patch Changes
+
+- fa0bbc5: 789
+- 71b5f00: 123
+
 ## 1.0.1
 
 ### Patch Changes
