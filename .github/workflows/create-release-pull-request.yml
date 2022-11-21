@@ -10,11 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: qwe
       - uses: actions/checkout@v3
 
       - name: Install modules
-      - run: npm ci
+        run: npm ci
 
       - name: Create release pull request / publish
         uses: changesets/action@v1
