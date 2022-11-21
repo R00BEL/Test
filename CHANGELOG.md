@@ -1,5 +1,11 @@
 # test
 
+## 1.0.7
+
+### Patch Changes
+
+- bb8889f: 1
+
 ## 1.0.6
 
 ### Patch Changes
