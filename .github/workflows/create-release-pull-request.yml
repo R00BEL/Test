@@ -20,8 +20,8 @@ jobs:
       - name: Create release pull request / publish
         uses: changesets/action@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.OWNER_TOKEN }}
+          NPM_TOKEN: ${{ secrets.OWNER_TOKEN }}
         with:
           version: npm run version
           publish: npm run publish
