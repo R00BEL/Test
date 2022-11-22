@@ -1,5 +1,11 @@
 # test
 
+## 1.0.9
+
+### Patch Changes
+
+- b27815a: 789
+
 ## 1.0.8
 
 ### Patch Changes
