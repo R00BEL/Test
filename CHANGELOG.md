@@ -1,5 +1,11 @@
 # test
 
+## 1.0.10
+
+### Patch Changes
+
+- f2f37ba: 1
+
 ## 1.0.9
 
 ### Patch Changes
