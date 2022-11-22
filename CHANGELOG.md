@@ -1,5 +1,11 @@
 # test
 
+## 1.0.22
+
+### Patch Changes
+
+- dfb6a8d: 1234
+
 ## 1.0.21
 
 ### Patch Changes
