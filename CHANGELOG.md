@@ -1,5 +1,11 @@
 # test
 
+## 1.0.20
+
+### Patch Changes
+
+- dd3858d: 1
+
 ## 1.0.19
 
 ### Patch Changes
