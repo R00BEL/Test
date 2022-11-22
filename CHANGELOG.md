@@ -1,5 +1,11 @@
 # test
 
+## 1.0.12
+
+### Patch Changes
+
+- b392d2c: 123
+
 ## 1.0.11
 
 ### Patch Changes
