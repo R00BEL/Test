@@ -1,11 +1,11 @@
-name: Publish
+name: Docker-publish
 
 on:
   release:
     types: [published]
 
 jobs:
-    publish:
+    docker-publish:
         name: Publish
         runs-on: ubuntu-latest
         env:
